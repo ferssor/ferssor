@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi, I'm Fernando Costa</h1>
-<h3 align="center">Software builder with the bit calculator machine at ... </h3>
+<h3 align="center">Software builder with the bit calculator machine at Vetta </h3>
 </br>
 
 
