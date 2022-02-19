@@ -15,15 +15,6 @@
 
 </div>
 
- ##
- </br>
- <div align = "center">
-  <a href="https://github.com/ferssor">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ferssor&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferssor&layout=compact&langs_count=7&theme="/>
-</div>
-</br>
- 
 <div>
  <h2 align="left">Favorite Tech and Tools</h2>
  </br>
