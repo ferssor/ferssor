@@ -5,7 +5,7 @@
 
 
 
-- :office: &nbsp;I'm currently working at personal project **encarte.me**
+- :office: &nbsp;I'm currently working at personal project **salario.dev**
  
 - :seedling: &nbsp;I’m currently learning **Web Development** and **Information System** at **UDESC**
  
