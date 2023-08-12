@@ -1,13 +1,11 @@
 <div>
-<h1 align="center">Hi, I'm Fernando Costa</h1>
+<h1 align="center">Hi, I'm Fernando Nogueira</h1>
 <h3 align="center">Software builder with the bit calculator machine at Vetta </h3>
 </br>
 
 
 
-- :office: &nbsp;I'm currently working at personal project **salario.dev**
- 
-- :seedling: &nbsp;I’m currently learning **Web Development** and **Information System** at **UDESC**
+- :office: &nbsp;I'm currently working as Software Developer at **Vetta**
  
 - :speech_balloon: &nbsp;I like to talk about **Inovation**, **Tech** and **Design**
 
