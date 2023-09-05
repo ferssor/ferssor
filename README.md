@@ -9,10 +9,8 @@
  
 - :speech_balloon: &nbsp;I like to talk about **Inovation**, **Tech** and **Design**
 
-- ![](https://visitor-badge.laobi.icu/badge?page_id=ferssor.ferssor) [![Github](https://img.shields.io/github/followers/ferssor?label=Follow&style=social)](https://github.com/ferssor)
-
 </div>
-
+</br>
 <div>
  <h2 align="left">Favorite Tech and Tools</h2>
  </br>
