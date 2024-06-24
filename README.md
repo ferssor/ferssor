@@ -5,7 +5,7 @@
 
 
 
-- :office: &nbsp;I'm currently working as Software Developer at **Vetta**
+- :office: &nbsp;I'm currently working as Software Developer at **...**
  
 - :speech_balloon: &nbsp;I like to talk about **Inovation**, **Tech** and **Design**
 
